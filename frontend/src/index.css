@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900;
+    font-family: 'Inter', 'Roboto', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[#0056B3] text-white px-6 py-3 rounded-lg font-medium shadow-md hover:bg-[#003D82] transition-all duration-300 active:scale-95;
+  }
+  
+  .btn-secondary {
+    @apply bg-[#FFD700] text-gray-900 px-6 py-3 rounded-lg font-medium shadow-md hover:bg-[#CCB200] transition-all duration-300 active:scale-95;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-[#0056B3] text-[#0056B3] px-6 py-3 rounded-lg font-medium hover:bg-[#0056B3] hover:text-white transition-all duration-300;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-lg p-6 transition-all duration-300 hover:shadow-xl;
+  }
+  
+  .input-field {
+    @apply w-full px-4 py-3 border-2 border-gray-300 rounded-lg focus:border-[#0056B3] focus:ring-2 focus:ring-[#0056B3]/20 outline-none transition-all duration-300;
+  }
+  
+  .badge-pending {
+    @apply inline-block px-3 py-1 text-xs font-semibold rounded-full bg-gray-200 text-gray-700;
+  }
+  
+  .badge-approved {
+    @apply inline-block px-3 py-1 text-xs font-semibold rounded-full bg-green-100 text-green-700;
+  }
+  
+  .page-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8;
+  }
+  
+  .mobile-container {
+    @apply max-w-md mx-auto px-4 py-6;
+  }
+}
+
+@layer utilities {
+  .gradient-primary {
+    background: linear-gradient(135deg, #0056B3 0%, #3478C6 100%);
+  }
+  
+  .gradient-gold {
+    background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%);
+  }
+}
+
+.spinner {
+  border: 3px solid rgba(0, 86, 179, 0.1);
+  border-radius: 50%;
+  border-top: 3px solid #0056B3;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@media print {
+  body {
+    @apply bg-white text-black;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+}

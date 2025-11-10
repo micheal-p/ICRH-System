@@ -1,0 +1,146 @@
+{
+  "university": "Igbinedion University",
+  "department": "Computer Science",
+  "academicYear": "2024/2025",
+  "semester": "First Semester",
+  "courses": {
+    "100": [
+      {
+        "courseCode": "CSC101",
+        "courseTitle": "Introduction to Computer Science",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Adebayo Johnson",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "MTH101",
+        "courseTitle": "Elementary Mathematics I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Prof. Sarah Williams",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "PHY101",
+        "courseTitle": "General Physics I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Emmanuel Okafor",
+        "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "Science Lab 1" }
+      },
+      {
+        "courseCode": "CHM101",
+        "courseTitle": "General Chemistry I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Grace Adeola",
+        "schedule": { "day": "Thursday", "time": "9:00 AM - 12:00 PM", "venue": "Chemistry Lab" }
+      },
+      {
+        "courseCode": "GST111",
+        "courseTitle": "Communication in English I",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      }
+    ],
+    "200": [
+      {
+        "courseCode": "CSC201",
+        "courseTitle": "Programming with C++",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Samuel Etuk",
+        "schedule": { "day": "Monday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
+      },
+      {
+        "courseCode": "CSC202",
+        "courseTitle": "Data Structures and Algorithms",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "MTH201",
+        "courseTitle": "Discrete Mathematics",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Prof. Sarah Williams",
+        "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "GST211",
+        "courseTitle": "Communication in English II",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Thursday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      }
+    ],
+    "300": [
+      {
+        "courseCode": "CSC301",
+        "courseTitle": "Database Management Systems",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CSC302",
+        "courseTitle": "Operating Systems",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Chidinma Okafor",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "CSC303",
+        "courseTitle": "Computer Architecture",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      }
+    ],
+    "400": [
+      {
+        "courseCode": "CSC401",
+        "courseTitle": "Artificial Intelligence",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Henry Udo",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CSC402",
+        "courseTitle": "Computer Networks",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      }
+    ],
+    "500": [
+      {
+        "courseCode": "CSC501",
+        "courseTitle": "Advanced Artificial Intelligence",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Henry Udo",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "CSC502",
+        "courseTitle": "Machine Learning",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      }
+    ]
+  }
+}

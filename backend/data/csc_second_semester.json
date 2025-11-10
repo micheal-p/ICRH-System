@@ -1,0 +1,130 @@
+{
+  "university": "Igbinedion University",
+  "department": "Computer Science",
+  "academicYear": "2024/2025",
+  "semester": "Second Semester",
+  "courses": {
+    "100": [
+      {
+        "courseCode": "CSC102",
+        "courseTitle": "Introduction to Problem Solving",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "GST112",
+        "courseTitle": "Nigerian Peoples and Culture",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Amina Mohammed",
+        "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "STA101",
+        "courseTitle": "Probability I",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Dr. Joy Uzoma",
+        "schedule": { "day": "Wednesday", "time": "2:00 PM - 5:00 PM", "venue": "LT4" }
+      }
+    ],
+    "200": [
+      {
+        "courseCode": "CSC203",
+        "courseTitle": "Object Oriented Programming",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "CSC204",
+        "courseTitle": "Computer Organization",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Samuel Etuk",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "GST212",
+        "courseTitle": "Philosophy and Logic",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Dr. Amina Mohammed",
+        "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
+      }
+    ],
+    "300": [
+      {
+        "courseCode": "CSC304",
+        "courseTitle": "Software Engineering I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "ENT301",
+        "courseTitle": "Entrepreneurship and Innovation",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Mr. Samuel Ekpo",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT4" }
+      }
+    ],
+    "400": [
+      {
+        "courseCode": "CSC403",
+        "courseTitle": "Compiler Construction",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Samuel Etuk",
+        "schedule": { "day": "Wednesday", "time": "1:00 PM - 4:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "CSC404",
+        "courseTitle": "Software Engineering II",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
+      },
+      {
+        "courseCode": "GST411",
+        "courseTitle": "Entrepreneurship Development",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      }
+    ],
+    "500": [
+      {
+        "courseCode": "CSC503",
+        "courseTitle": "Cybersecurity and Cryptography",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Samuel Etuk",
+        "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CSC504",
+        "courseTitle": "Project Management and Ethics",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CSC599",
+        "courseTitle": "Final Year Project",
+        "units": 6,
+        "isCore": true,
+        "lecturer": "Department Supervisors",
+        "schedule": { "day": "Flexible", "time": "By Arrangement", "venue": "Project Office" }
+      }
+    ]
+  }
+}

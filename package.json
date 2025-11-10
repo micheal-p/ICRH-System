@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.13.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.3"
+  },
+  "eslintConfig": {
+    "rules": {
+      "no-unused-vars": "warn",
+      "react-hooks/exhaustive-deps": "warn"
+    }
+  }
+}

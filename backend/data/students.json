@@ -1,0 +1,40 @@
+[
+  {
+    "full_name": "Chukwuka Lebron James",
+    "matric_number": "csc/2025/6612",
+    "department": "CSC",
+    "level": "100",
+    "email": "nkanta200@gmail.com",
+    "phone": "09029909781",
+    "password": "scrypt:32768:8:1$zZmiFWIHBTsrFnjy$e031f0092e24de42d95fa250b7ad0fd8dd4ff8c68f8b67b7ac2242173ae12ab2cd6edd7388657ce764305c724c4435910532b624d64f93419f93f41e9e40d42d",
+    "photo": "uploads/csc_2025_6612_IMG_2201.jpeg",
+    "registered_courses": {
+      "first_semester": [],
+      "second_semester": []
+    },
+    "registration_status": {
+      "first_semester": "not_started",
+      "second_semester": "not_started"
+    },
+    "created_at": "2025-11-08T12:12:17.467783"
+  },
+  {
+    "full_name": "Caleb Eleniyan",
+    "matric_number": "csc/2025/7171",
+    "department": "CSC",
+    "level": "200",
+    "email": "nkanta200@gmail.com",
+    "phone": "09029909781",
+    "password": "scrypt:32768:8:1$Q3omW7enjPmp9Y3m$1df8c96ebbdd2e20d29bfd3ecd7a5918ba881f4aad1b1d37e736aa2707d08b646b76680f58034f06213fa76f1f37966016277f58247b52fde3df02e70ba04dc8",
+    "photo": "uploads/csc_2025_7171_IMG_1764.jpeg",
+    "registered_courses": {
+      "first_semester": [],
+      "second_semester": []
+    },
+    "registration_status": {
+      "first_semester": "not_started",
+      "second_semester": "not_started"
+    },
+    "created_at": "2025-11-08T14:09:43.178389"
+  }
+]

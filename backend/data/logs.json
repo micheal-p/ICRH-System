@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "2025-11-08T12:12:17.470047",
+    "action": "register",
+    "user": "csc/2025/6612",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:05:38.304651",
+    "action": "register_courses",
+    "user": "csc/2025/6612",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:13:05.722614",
+    "action": "register_courses",
+    "user": "csc/2025/6612",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:49:00.270985",
+    "action": "signature_update",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:49:33.305532",
+    "action": "signature_update",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:50:10.937130",
+    "action": "signature_update",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:50:56.300142",
+    "action": "signature_update",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T13:51:10.499347",
+    "action": "approved",
+    "user": "ADMIN001",
+    "details": "csc/2025/6612 first_semester"
+  },
+  {
+    "timestamp": "2025-11-08T14:04:44.953079",
+    "action": "config_update",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T14:09:43.179985",
+    "action": "register",
+    "user": "csc/2025/7171",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-08T14:12:28.104666",
+    "action": "token_generated",
+    "user": "ADMIN001",
+    "details": ""
+  },
+  {
+    "timestamp": "2025-11-09T15:18:42.008413",
+    "action": "delete_registration",
+    "user": "ADMIN001",
+    "details": "csc/2025/6612 first_semester"
+  },
+  {
+    "timestamp": "2025-11-09T15:18:50.730092",
+    "action": "delete_registration",
+    "user": "ADMIN001",
+    "details": "csc/2025/6612 second_semester"
+  }
+]

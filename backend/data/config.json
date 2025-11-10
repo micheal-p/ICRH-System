@@ -1,0 +1,41 @@
+{
+  "active_semester": "first",
+  "registration_deadline": "2025-12-19",
+  "max_units": {
+    "100": 24,
+    "200": 24,
+    "300": 24,
+    "400": 24,
+    "500": 24
+  },
+  "admins": [
+    {
+      "full_name": "Site Admin",
+      "matric_number": "ADMIN001",
+      "password": "scrypt:32768:8:1$s4XLUJRdEE702Q7A$236fa7cc63727612f61c842a2c9b357514c566176bd417f30883dea8b5f6c27165a102fbbaf4a8291ad1990c1d1c3d28307725dba32f681f3190192a61bb19cd",
+      "created_at": "2025-11-08T12:05:53.366142"
+    }
+  ],
+  "signatures": {
+    "hod": {
+      "name": "Engr. Dr. Onyegbadue Ikenna",
+      "signature": "signatures/hod_IMG_2389-removebg-preview.png",
+      "updated_at": "2025-11-08T13:49:00.270208"
+    },
+    "registrar": {
+      "name": "Dr. Kemi Ogunlusi",
+      "signature": "signatures/registrar_IMG_2390-removebg-preview.png",
+      "updated_at": "2025-11-08T13:49:33.304716"
+    },
+    "course_advisor": {
+      "name": "Mr. Femi Sanusi",
+      "signature": "signatures/course_advisor_IMG_2391-removebg-preview.png",
+      "updated_at": "2025-11-08T13:50:10.935951"
+    },
+    "dean": {
+      "name": "Dr. Oni gbamidele",
+      "signature": "signatures/dean_IMG_2390-removebg-preview.png",
+      "updated_at": "2025-11-08T13:50:56.298735"
+    }
+  }
+}
