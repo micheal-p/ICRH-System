@@ -42,7 +42,7 @@
         "courseTitle": "Practical Organic Chemistry I",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Mr. Kingsley Effiong",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
@@ -58,7 +58,7 @@
         "courseTitle": "(General Physics II)",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Mrs. Ngozi Eze",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
@@ -66,7 +66,7 @@
         "courseTitle": "Thermal Physics",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Mr. Segun Oladipo",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
@@ -74,7 +74,7 @@
         "courseTitle": "Communication in English I",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Dr. (Mrs.) Funmi Adeyemi",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
@@ -82,7 +82,7 @@
         "courseTitle": "Logic and Philosophy",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Prof. Ibrahim Hassan",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
        {
@@ -90,7 +90,7 @@
         "courseTitle": "Nigerian History and Culture",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Dr. Yusuf Mohammed",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
@@ -98,7 +98,7 @@
         "courseTitle": "IT Essentials",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Engr. Bayo Adekunle",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       }
     ],
@@ -132,14 +132,14 @@
         "courseTitle": "Computer and Computing",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Peter Okoli",
+        "lecturer": "Mrs. Chioma Nwosu",
         "schedule": { "day": "Thursday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       }, {
         "courseCode": "MEE221",
         "courseTitle": "Engineering Drawing I",
         "units": 3,
         "isCore": true,
-        "lecturer": "Dr. Samuel Etuk",
+        "lecturer": "Engr. Samuel Etuk",
         "schedule": { "day": "Monday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
       },
       {
@@ -147,7 +147,7 @@
         "courseTitle": "Electrical Engineering",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mrs. Tolu Adeyemi",
+        "lecturer": "Dr. Albert Obaseki",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
@@ -155,7 +155,7 @@
         "courseTitle": "Manufacturing Technology",
         "units": 3,
         "isCore": true,
-        "lecturer": "Prof. Sarah Williams",
+        "lecturer": "Engr. Patrick Udo",
         "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -221,7 +221,7 @@
         "courseTitle": "Electrical Theory I",
         "units": 3,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Engr. Grace Ibe",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -229,7 +229,7 @@
         "courseTitle": "Elect/Elect Measurements",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Chidinma Okafor",
+        "lecturer": "Mr. Tunde Bakare",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
@@ -245,7 +245,7 @@
         "courseTitle": "Electronic Circuits",
         "units": 3,
         "isCore": true,
-        "lecturer": "Dr. John Adeyemi",
+        "lecturer": "Prof. David Okon",
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       },
       {
@@ -253,7 +253,7 @@
         "courseTitle": "Basic Computer Engineering",
         "units": 3,
         "isCore": true,
-        "lecturer": "Dr. John Adeyemi",
+        "lecturer": "Engr. Kemi Adebayo",
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       },
       {
@@ -261,7 +261,7 @@
         "courseTitle": "Research Methods & Techical Writing",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. John Adeyemi",
+        "lecturer": "Dr. Yakubu Ali",
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       },
       {
@@ -269,7 +269,7 @@
         "courseTitle": "Introduction to Enterprenueurship Studies",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. John Adeyemi",
+        "lecturer": "Mrs. Fatima Abdullahi",
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       },
       {
@@ -277,7 +277,7 @@
         "courseTitle": "Electrical Lab I",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. John Adeyemi",
+        "lecturer": "Mr. Charles Obi",
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       }
     ],
@@ -295,7 +295,7 @@
         "courseTitle": "Control Theory",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Dr. Helen Afolabi",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -311,7 +311,7 @@
         "courseTitle": "Telecommunication Principles",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Prof. Samuel Okafor",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -319,7 +319,7 @@
         "courseTitle": "Switching Theory and Logic Design",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Engr. Victor Nnamdi",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -327,7 +327,7 @@
         "courseTitle": "Switching Theory and Logic Design",
         "units": 2,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Dr. Patrick Eze",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -335,7 +335,7 @@
         "courseTitle": "Introduction To Computer Architecture",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Mr. Johnson Igwe",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -343,7 +343,7 @@
         "courseTitle": "Electrical and Electronic Instrumentation",
         "units": 3,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Mrs. Zainab Usman",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
@@ -367,7 +367,7 @@
         "courseTitle": "Career Enhancement and resilience Training",
         "units": 2,
         "isCore": true,
-        "lecturer": "Mr. David Chukwu",
+        "lecturer": "Dr. Angela Nwosu",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       }
     ],
@@ -385,7 +385,7 @@
         "courseTitle": "Reliability & Maintainability of Electrical and Electronic components",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Prof. Ahmed Ibrahim",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       }
       ,
@@ -394,7 +394,7 @@
         "courseTitle": "Electronics Circuit III",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Dr. Sarah Idoko",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -402,7 +402,7 @@
         "courseTitle": "Digital Component & Systems",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Engr. Solomon Uche",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -418,7 +418,7 @@
         "courseTitle": "Application",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Dr. Femi Ojo",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -426,7 +426,7 @@
         "courseTitle": "Software Engineering",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Mrs. Ada Obi",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -434,7 +434,7 @@
         "courseTitle": "Data Communications and Network",
         "units": 2,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Mr. Emeka Okon",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
@@ -442,7 +442,7 @@
         "courseTitle": "Artificial Intelligence Project",
         "units": 3,
         "isCore": true,
-        "lecturer": "Dr. Musa Bello",
+        "lecturer": "Prof. Isaac Adeleke",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       }
     ]
