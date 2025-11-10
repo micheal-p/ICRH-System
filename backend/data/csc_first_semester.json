@@ -6,36 +6,68 @@
   "courses": {
     "100": [
       {
-        "courseCode": "CSC101",
-        "courseTitle": "Introduction to Computer Science",
+        "courseCode": "MTH111",
+        "courseTitle": "Algebra and Trigonometry",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Adebayo Johnson",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
-        "courseCode": "MTH101",
-        "courseTitle": "Elementary Mathematics I",
+        "courseCode": "MTH112",
+        "courseTitle": "Calculus/ Real Analysis I",
         "units": 3,
         "isCore": true,
         "lecturer": "Prof. Sarah Williams",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
-        "courseCode": "PHY101",
-        "courseTitle": "General Physics I",
+        "courseCode": "CHM111",
+        "courseTitle": "General Chemistry I",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Emmanuel Okafor",
         "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "Science Lab 1" }
       },
       {
-        "courseCode": "CHM101",
-        "courseTitle": "General Chemistry I",
-        "units": 3,
+        "courseCode": "CHM112",
+        "courseTitle": "Organic Chemistry I",
+        "units": 2,
         "isCore": true,
         "lecturer": "Dr. Grace Adeola",
         "schedule": { "day": "Thursday", "time": "9:00 AM - 12:00 PM", "venue": "Chemistry Lab" }
+      },
+      {
+        "courseCode": "CHM 113",
+        "courseTitle": "Practical Organic Chemistry I",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "PHY111",
+        "courseTitle": "Mechanics, and Properties of Matter",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Pius Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "PHY112",
+        "courseTitle": "(General Physics II)",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "PHY113",
+        "courseTitle": "Thermal Physics",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       },
       {
         "courseCode": "GST111",
@@ -44,54 +76,107 @@
         "isCore": true,
         "lecturer": "Dr. Peter Okoli",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "GST112",
+        "courseTitle": "Logic and Philosophy",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+       {
+        "courseCode": "GST113",
+        "courseTitle": "Nigerian History and Culture",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "GST114",
+        "courseTitle": "IT Essentials",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
       }
     ],
     "200": [
       {
-        "courseCode": "CSC201",
-        "courseTitle": "Programming with C++",
+        "courseCode": "EMA201",
+        "courseTitle": "Engineering Mathematics I",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Samuel Etuk",
         "schedule": { "day": "Monday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
       },
       {
-        "courseCode": "CSC202",
-        "courseTitle": "Data Structures and Algorithms",
+        "courseCode": "GST 211",
+        "courseTitle": "History and Philosophy of Science",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "CVE211",
+        "courseTitle": "Strength of Materials",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Prof. Sarah Williams",
+        "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "ECP201",
+        "courseTitle": "Computer and Computing",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Peter Okoli",
+        "schedule": { "day": "Thursday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
+      }, {
+        "courseCode": "MEE221",
+        "courseTitle": "Engineering Drawing I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Samuel Etuk",
+        "schedule": { "day": "Monday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
+      },
+      {
+        "courseCode": "EEE211",
+        "courseTitle": "Electrical Engineering",
         "units": 3,
         "isCore": true,
         "lecturer": "Mrs. Tolu Adeyemi",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
-        "courseCode": "MTH201",
-        "courseTitle": "Discrete Mathematics",
+        "courseCode": "MEE271",
+        "courseTitle": "Manufacturing Technology",
         "units": 3,
         "isCore": true,
         "lecturer": "Prof. Sarah Williams",
         "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
-        "courseCode": "GST211",
-        "courseTitle": "Communication in English II",
+        "courseCode": "MEE251",
+        "courseTitle": "Thermodynamics",
         "units": 2,
         "isCore": true,
         "lecturer": "Dr. Peter Okoli",
         "schedule": { "day": "Thursday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
-      }
-    ],
-    "300": [
+      },
       {
-        "courseCode": "CSC301",
-        "courseTitle": "Database Management Systems",
-        "units": 3,
+        "courseCode": "ENS211",
+        "courseTitle": "Engineer in Society",
+        "units": 1,
         "isCore": true,
         "lecturer": "Dr. Musa Bello",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
-        "courseCode": "CSC302",
-        "courseTitle": "Operating Systems",
+        "courseCode": "ELA201",
+        "courseTitle": "Laboratory/Workshop Practice",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Chidinma Okafor",
@@ -106,19 +191,181 @@
         "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
       }
     ],
+    "300": [
+      {
+        "courseCode": "EMA301",
+        "courseTitle": "Engineering Mathematics III",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "EEE321",
+        "courseTitle": "Electromechanical Devices & Machines",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Chidinma Okafor",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "EEE311",
+        "courseTitle": "Electrical Theory I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "EEE311",
+        "courseTitle": "Electrical Theory I",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "EEE331",
+        "courseTitle": "Elect/Elect Measurements",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Chidinma Okafor",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },
+      {
+        "courseCode": "GRE331",
+        "courseTitle": "Research Methods & Techical Writing",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "EEE351",
+        "courseTitle": "Electronic Circuits",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE311",
+        "courseTitle": "Basic Computer Engineering",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "GRE331",
+        "courseTitle": "Research Methods & Techical Writing",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "EPS311",
+        "courseTitle": "Introduction to Enterprenueurship Studies",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "ELA301",
+        "courseTitle": "Electrical Lab I",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. John Adeyemi",
+        "schedule": { "day": "Wednesday", "time": "10:00 AM - 1:00 PM", "venue": "LT3" }
+      }
+    ],
     "400": [
       {
-        "courseCode": "CSC401",
-        "courseTitle": "Artificial Intelligence",
+        "courseCode": "EMA401",
+        "courseTitle": "Engineering Mathematheics V",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Henry Udo",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
-        "courseCode": "CSC402",
-        "courseTitle": "Computer Networks",
+        "courseCode": "EEE431",
+        "courseTitle": "Control Theory",
         "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CSC402",
+        "courseTitle": "Electronic Circuits II",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "EEE451",
+        "courseTitle": "Telecommunication Principles",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE431",
+        "courseTitle": "Switching Theory and Logic Design",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE431",
+        "courseTitle": "Switching Theory and Logic Design",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE441",
+        "courseTitle": "Introduction To Computer Architecture",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE461",
+        "courseTitle": "Electrical and Electronic Instrumentation",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CPE401",
+        "courseTitle": "Control & Computer Lab III",
+        "units": 1,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "ELA401",
+        "courseTitle": "Electronic and Communication Lab",
+        "units": 1,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "CERT411",
+        "courseTitle": "Career Enhancement and resilience Training",
+        "units": 2,
         "isCore": true,
         "lecturer": "Mr. David Chukwu",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
@@ -126,16 +373,73 @@
     ],
     "500": [
       {
-        "courseCode": "CSC501",
-        "courseTitle": "Advanced Artificial Intelligence",
+        "courseCode": "GRE501",
+        "courseTitle": "Engineering Management I",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Henry Udo",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
-        "courseCode": "CSC502",
-        "courseTitle": "Machine Learning",
+        "courseCode": "EEE531",
+        "courseTitle": "Reliability & Maintainability of Electrical and Electronic components",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      }
+      ,
+      {
+        "courseCode": "EEE541",
+        "courseTitle": "Electronics Circuit III",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE511",
+        "courseTitle": "Digital Component & Systems",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE521",
+        "courseTitle": "Microprocessor Fundamentals and Applications",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE531",
+        "courseTitle": "Application",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE531",
+        "courseTitle": "Software Engineering",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE551",
+        "courseTitle": "Data Communications and Network",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Musa Bello",
+        "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
+      },
+      {
+        "courseCode": "CPE561",
+        "courseTitle": "Artificial Intelligence Project",
         "units": 3,
         "isCore": true,
         "lecturer": "Dr. Musa Bello",
