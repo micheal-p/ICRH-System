@@ -15,7 +15,7 @@
       "use": "@vercel/static-build",
       "config": {
         "distDir": "build",
-        "buildCommand": "npm run build:ci"
+        "buildCommand": "CI=false npm run build"
       }
     }
   ],
@@ -28,6 +28,7 @@
   "env": {
     "PYTHONUNBUFFERED": "1",
     "FLASK_ENV": "production",
-    "CI": "false"
+    "CI": "false",
+    "NODE_ENV": "production"
   }
 }
