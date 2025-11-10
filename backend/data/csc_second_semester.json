@@ -5,26 +5,106 @@
   "semester": "Second Semester",
   "courses": {
     "100": [
-      {
-        "courseCode": "CSC102",
-        "courseTitle": "Introduction to Problem Solving",
+       {
+        "courseCode": "MTH121",
+        "courseTitle": "Vectors and Geometry and statistics",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "MTH112",
+        "courseTitle": "Differential Equations and dynamics",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "CHM121",
+        "courseTitle": "General Chemistry II",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "CHM122",
+        "courseTitle": "Practical Chemistry II",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "CHM123",
+        "courseTitle": "Organic Chemistry",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "PHY100",
+        "courseTitle": "Practical Physics I",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "PHY121",
+        "courseTitle": "Electromagnetism",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },{
+        "courseCode": "PHY122",
+        "courseTitle": "Modern Physics",
         "units": 2,
         "isCore": true,
         "lecturer": "Mr. David Chukwu",
         "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
       },
       {
-        "courseCode": "GST112",
-        "courseTitle": "Nigerian Peoples and Culture",
+        "courseCode": "PHY123",
+        "courseTitle": "Vibrations and Waves and Optics",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "GST121",
+        "courseTitle": "Use of Library and Study Skills and ICT",
         "units": 2,
         "isCore": true,
         "lecturer": "Dr. Amina Mohammed",
         "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
       },
       {
-        "courseCode": "STA101",
-        "courseTitle": "Probability I",
-        "units": 3,
+        "courseCode": "GST122",
+        "courseTitle": "Communication in English ",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Dr. Joy Uzoma",
+        "schedule": { "day": "Wednesday", "time": "2:00 PM - 5:00 PM", "venue": "LT4" }
+      },{
+        "courseCode": "GST123",
+        "courseTitle": "Communication in French",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "GST125",
+        "courseTitle": "Contemporary Health Issues",
+        "units": 1,
+        "isCore": true,
+        "lecturer": "Dr. Amina Mohammed",
+        "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "IUIT102",
+        "courseTitle": "Igbedion University Industrial Training Scheme",
+        "units": 1,
         "isCore": false,
         "lecturer": "Dr. Joy Uzoma",
         "schedule": { "day": "Wednesday", "time": "2:00 PM - 5:00 PM", "venue": "LT4" }
@@ -32,35 +112,170 @@
     ],
     "200": [
       {
-        "courseCode": "CSC203",
-        "courseTitle": "Object Oriented Programming",
+        "courseCode": "EMA202",
+        "courseTitle": "Engineering Mathematics II",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "MEE212",
+        "courseTitle": "Engineering mechanics II",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "MEE242",
+        "courseTitle": "Materials Science",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "MEE262",
+        "courseTitle": "Fluid Mechanics I",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "ESP223",
+        "courseTitle": "Introduction To Entrepreneurship Skills",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "ECP202",
+        "courseTitle": "Computer and computing II",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "ECP204",
+        "courseTitle": "Information technology in Engineering",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
+      },{
+        "courseCode": "EEE212",
+        "courseTitle": "Electrical Engineering II",
         "units": 3,
         "isCore": true,
         "lecturer": "Mrs. Tolu Adeyemi",
         "schedule": { "day": "Monday", "time": "9:00 AM - 12:00 PM", "venue": "LT1" }
       },
       {
-        "courseCode": "CSC204",
-        "courseTitle": "Computer Organization",
-        "units": 3,
+        "courseCode": "GST222",
+        "courseTitle": "Peace and conflict resolution ",
+        "units": 2,
         "isCore": true,
         "lecturer": "Dr. Samuel Etuk",
         "schedule": { "day": "Tuesday", "time": "9:00 AM - 12:00 PM", "venue": "LT2" }
       },
       {
-        "courseCode": "GST212",
-        "courseTitle": "Philosophy and Logic",
+        "courseCode": "GST224",
+        "courseTitle": "Leadership skills",
         "units": 2,
         "isCore": false,
         "lecturer": "Dr. Amina Mohammed",
         "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
+      },{
+        "courseCode": "CSP221",
+        "courseTitle": "Community Service Programme",
+        "units": 0,
+        "isCore": true,
+        "lecturer": "Mr. David Chukwu",
+        "schedule": { "day": "Monday", "time": "2:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "ELA202",
+        "courseTitle": "Laboratory",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Amina Mohammed",
+        "schedule": { "day": "Friday", "time": "11:00 AM - 1:00 PM", "venue": "LT3" }
+      },
+      {
+        "courseCode": "IUITS202",
+        "courseTitle": "Igbedion University Industrial Training Scheme",
+        "units": 1,
+        "isCore": false,
+        "lecturer": "Dr. Joy Uzoma",
+        "schedule": { "day": "Wednesday", "time": "2:00 PM - 5:00 PM", "venue": "LT4" }
       }
     ],
     "300": [
       {
-        "courseCode": "CSC304",
-        "courseTitle": "Software Engineering I",
+        "courseCode": "EEE312",
+        "courseTitle": "Electrical Circuits and Theory",
         "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "ELA302",
+        "courseTitle": "Electrical Laboratory",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Mr. Samuel Ekpo",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT4" }
+      },{
+        "courseCode": "EEE332",
+        "courseTitle": "Electromagnetic Theory",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "EEE352",
+        "courseTitle": "Digital Electronics",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Mr. Samuel Ekpo",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "EMA302",
+        "courseTitle": "Engineering Mathematics IV",
+        "units": 3,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "EMA362",
+        "courseTitle": "Logic Design and Digital Circuits",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mr. Samuel Ekpo",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE302",
+        "courseTitle": "Computer Programming and Language",
+        "units": 2,
+        "isCore": true,
+        "lecturer": "Dr. Ifeoma Umeh",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
+      },
+      {
+        "courseCode": "CPE322",
+        "courseTitle": "Operating Systems",
+        "units": 2,
+        "isCore": false,
+        "lecturer": "Mr. Samuel Ekpo",
+        "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "IUIT302",
+        "courseTitle": "Igbedion University Industrial Training Scheme",
+        "units": 1,
         "isCore": true,
         "lecturer": "Dr. Ifeoma Umeh",
         "schedule": { "day": "Thursday", "time": "1:00 PM - 4:00 PM", "venue": "Computer Lab 1" }
@@ -76,25 +291,9 @@
     ],
     "400": [
       {
-        "courseCode": "CSC403",
-        "courseTitle": "Compiler Construction",
-        "units": 3,
-        "isCore": true,
-        "lecturer": "Dr. Samuel Etuk",
-        "schedule": { "day": "Wednesday", "time": "1:00 PM - 4:00 PM", "venue": "LT1" }
-      },
-      {
-        "courseCode": "CSC404",
-        "courseTitle": "Software Engineering II",
-        "units": 3,
-        "isCore": true,
-        "lecturer": "Dr. Ifeoma Umeh",
-        "schedule": { "day": "Thursday", "time": "10:00 AM - 1:00 PM", "venue": "Computer Lab 2" }
-      },
-      {
-        "courseCode": "GST411",
-        "courseTitle": "Entrepreneurship Development",
-        "units": 2,
+        "courseCode": "IUITS401",
+        "courseTitle": "Industrial Training (6 months)",
+        "units": 6,
         "isCore": false,
         "lecturer": "Dr. Peter Okoli",
         "schedule": { "day": "Friday", "time": "9:00 AM - 11:00 AM", "venue": "LT3" }
@@ -102,7 +301,7 @@
     ],
     "500": [
       {
-        "courseCode": "CSC503",
+        "courseCode": "GRE502",
         "courseTitle": "Cybersecurity and Cryptography",
         "units": 3,
         "isCore": true,
@@ -110,20 +309,76 @@
         "schedule": { "day": "Wednesday", "time": "9:00 AM - 12:00 PM", "venue": "LT3" }
       },
       {
-        "courseCode": "CSC504",
+        "courseCode": "EEE522",
         "courseTitle": "Project Management and Ethics",
-        "units": 2,
+        "units": 3,
         "isCore": false,
         "lecturer": "Mrs. Tolu Adeyemi",
         "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
       },
       {
-        "courseCode": "CSC599",
+        "courseCode": "EEE552",
         "courseTitle": "Final Year Project",
-        "units": 6,
+        "units": 3,
         "isCore": true,
         "lecturer": "Department Supervisors",
         "schedule": { "day": "Flexible", "time": "By Arrangement", "venue": "Project Office" }
+      },
+      {
+        "courseCode": "EEE572",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE542",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE552",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE562",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE532",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE512",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
+      },
+      {
+        "courseCode": "CPE514",
+        "courseTitle": "Project Management and Ethics",
+        "units": 3,
+        "isCore": false,
+        "lecturer": "Mrs. Tolu Adeyemi",
+        "schedule": { "day": "Thursday", "time": "1:00 PM - 3:00 PM", "venue": "LT4" }
       }
     ]
   }
