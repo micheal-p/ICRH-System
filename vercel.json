@@ -20,11 +20,15 @@
     }
   ],
   "routes": [
+    { "handle": "filesystem" },
+    
     { "src": "/api/(.*)", "dest": "/api/app.py" },
     { "src": "/uploads/(.*)", "dest": "/api/app.py" },
     { "src": "/signatures/(.*)", "dest": "/api/app.py" },
-    { "src": "/static/(.*)", "dest": "/frontend/build/static/$1" },
-    { "src": "/(.*)", "dest": "/frontend/build/index.html" }
+    
+    { "src": "/static/(.*)", "dest": "/static/$1" },
+
+    { "src": "/(.*)", "dest": "/index.html" }
   ],
   "env": {
     "PYTHONUNBUFFERED": "1",
